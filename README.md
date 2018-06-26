@@ -2,7 +2,11 @@
 [Udacity VR Nanodegree project](https://eu.udacity.com/course/vr-developer-nanodegree--nd017)
 
 ## Introduction 
-The focus of this section of the course (and this project) was on designing VR experience; including the main design tasks, processes, techniques and considerations to create compelling experiences.   Therefore the contents of this document is to encapsulate and present these learnings. 
+The focus of this section of the course (and this project) was on designing a VR experience; including the main design tasks, processes, techniques and considerations to create compelling experiences. Therefore the contents of this document is to encapsulate and present these learnings. 
+
+The project I elected to do is a modified version of the classic game Simon Says (as described below) with the intention of targeting technically savvy users who are new to VR (young adults) - the reason for this is I feel this is probably the appropriate audience for VR (at the moment) and the casual game and immediacy of a puzzle provides an adequate and gentle introduction to VR.
+
+The project provided a good base for covering the majority of design considersations when creating VR expereinces. I found/find the biggest considersation is the limitations of how the user can interact. In future iterations I would like to explore alterantive interaction models (voice, gaze, ...) and how they influence/affect the experience and what is possible.   
 
 ## Puzzler  
 Puzzler is a modified version of the classic [Simon Says]() game where by the player must remember and replay a sequence that was given to her/him. This game varies by placing the user is a mysterious dark world, as to induce anxiety. 
@@ -12,6 +16,8 @@ Next we present the fly-thru before walking through the design process.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ox952NYmPDI
 " target="_blank"><img src="https://i.ytimg.com/vi/Ox952NYmPDI/hqdefault.jpg"
 alt="Fly-thru" width="480" height="360" border="0" /></a>
+
+The game begins with the user standing alone in a dark environment in front of a large stone building with a menu instructing them to begin the game. Once the user selects to start they are moved into the building where they (the user/player) are placed in front of 5 orbs. The orbs play a sequence where-by the user must match the sequence by taking on the orbs in correct order. The user is made aware of an incorrect selection via an audio clip. After successfully re-creating the sequence (in the correct order) the user is then moved to the exit where they are presented with a menu giving them the chance to play again.   
 
 ## Target Audience 
 
