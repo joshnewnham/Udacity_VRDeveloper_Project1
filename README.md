@@ -6,7 +6,9 @@ The focus of this section of the course (and this project) was on designing a VR
 
 The project I elected to do is a modified version of the classic game Simon Says (as described below) with the intention of targeting technically savvy users who are new to VR (young adults) - the reason for this is I feel this is probably the appropriate audience for VR (at the moment) and the casual game and immediacy of a puzzle provides an adequate and gentle introduction to VR.
 
-The project provided a good base for covering the majority of design considersations when creating VR expereinces. I found/find the biggest considersation is the limitations of how the user can interact. In future iterations I would like to explore alterantive interaction models (voice, gaze, ...) and how they influence/affect the experience and what is possible.   
+The project provided a good base for covering the majority of design considersations when creating VR expereinces. I found/find the biggest challenge is the limitations of how the user can interact. In future iterations I would like to explore alterantive interaction models (voice, gaze, ...) and how they influence/affect the experience and what is possible.   
+
+Lastly; this exercise ilustrates how quick it can be to build immersive experiences - thanks to Unity - the project ran over a couple of days (part-time) which highlights the opportunity of being able to quickly ideate, build and test - great for a medium still in its infacy. 
 
 ## Puzzler  
 Puzzler is a modified version of the classic [Simon Says]() game where by the player must remember and replay a sequence that was given to her/him. This game varies by placing the user is a mysterious dark world, as to induce anxiety. 
